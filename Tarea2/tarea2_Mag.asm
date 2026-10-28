@@ -26,6 +26,7 @@ msg_ok:         .ascii "Integrado en buen estado: IC OK\n"
 msg_ok_fin:
 
 msg_mal:        .ascii "Integrado danado: IC MAL\n"
+msg_mal_fin:
 
 // El numero 1 se reemplaza por la compuerta que fallo
 msg_compuerta:  .ascii "Compuerta 1 danada\n"
